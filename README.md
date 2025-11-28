@@ -1,7 +1,7 @@
 # JSONEncoderDecoder
 A simple JSON Encoder and Decoder project in Python.
 
-Project Name: JSON Encoder and Decoder | Version: 1.0: Base version by author: Prakash Srinivasan ( username: Prarvy | e-mail: prarvy@gmail.com )
+Project Name: JSON Encoder and Decoder | Version: 1.0: Base version by author: Prakash Srinivasan ( GitHub username: Srinivasan-Prakash | Email: Prakash-Srinivasan@Outlook.com )
 
 This project is created as part of Certified Professional in Python Programming.
 
